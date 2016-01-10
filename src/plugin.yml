@@ -1,0 +1,8 @@
+name: ThePhoenixProjectMod
+main: me.TaahThePhoenix.ThePhoenixProject.ThePhoenixProject
+version: 1.0
+author: [TaahThePhoenix]
+command:
+  tpp:
+    description: Information about ThePhoenixProjectMod
+    usage: /<command>
